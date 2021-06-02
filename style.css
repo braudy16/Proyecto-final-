@@ -1,28 +1,28 @@
 body{
-	color:#fff;
+	color:rgb(207, 177, 177);
 }
 .menu-1{
 	height: 60px;
-	background: #444;
+	background: rgb(16, 215, 241);
 }
 .slider-1, .slider-2, .slider-3,.slider-4, .slider-5{
 	height: 100vh;
 	text-align: center;
 }
 .slider-1{
-	background: #700961;
+	background: #3a046d;
 }
 .slider-2{
-	background: #700961;
+	background: #0d0463;
 }
 .slider-3{
-	background: #700961;
+	background: #200364;
 }
 .slider-4{
-	background: #700961;
+	background: #270772;
 }
 .slider-5{
-	background: #700961;
+	background: #240970;
 }
 .footer{
 	background: #444;
