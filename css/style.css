@@ -1,0 +1,44 @@
+
+.alex{
+	height: 450px;
+	width: 300px;
+}
+body{
+	color:#fff;
+}
+.menu-1{
+	height: 60px;
+	background: rgba(1, 75, 109, 0.363);
+}
+.slider-1, .slider-2, .slider-3, .slider-4,.slider-5, .slider-6{
+	height: 100vh;
+	text-align: center;
+}
+.slider-1{
+	background-image: url(../img/inicio.jpg);
+}
+.slider-2{
+	background-image: url(../img/hola.png);
+}
+.slider-3{
+	background-image: url(../img/historia.jpg);
+}
+.slider-4{
+	background-image: url(../img/qu.jpg);
+}
+.slider-5{
+	background-image: url(../img/contenido.png);
+}
+.slider-6{
+	background-image: url(../img/Sin\ ale.png);
+}
+#A{
+	height: 50px;
+	width: 150px;
+}
+.footer{
+	background: rgba(238, 5, 5, 0.678);
+	color:rgb(0, 0, 0);
+	text-align: center;
+	padding: 10px;
+}
